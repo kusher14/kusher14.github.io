@@ -1,0 +1,9 @@
+nav {
+  color: white;
+  background-color: pink;
+  font-family: cursive;
+}
+li {
+  margin: 0 auto;
+  text-align: center;
+}
